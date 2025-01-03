@@ -99,7 +99,7 @@ Once you have the `tiktok_cookies.pkl` file, you can use it with the main script
 1. Make sure you've installed all the required libraries.
 2. Replace the `API_KEY` in the script with your own `sadcaptcha` API key (visit [sadcaptcha.com](https://www.sadcaptcha.com/) to generate one).
 3. Run the `cookies.py` script to capture your cookies and save them as `tiktok_cookies.pkl`.
-4. Run the `tiktok_scraper.py` script:
+4. Run the `Tiktok-captcha.py` script:
 
 ```bash
 python Tiktok-captcha.py
