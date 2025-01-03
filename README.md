@@ -102,7 +102,7 @@ Once you have the `tiktok_cookies.pkl` file, you can use it with the main script
 4. Run the `tiktok_scraper.py` script:
 
 ```bash
-python tiktok_scraper.py
+python Tiktok-captcha.py
 ```
 
 The script will attempt to load cookies from the `tiktok_cookies.pkl` file. If it doesn't find the file or if login is required, it will solve the CAPTCHA using the `sadcaptcha` API.
